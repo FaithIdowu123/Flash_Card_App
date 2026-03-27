@@ -26,7 +26,6 @@ Libraries / Tools:
 # Future Work
 
 - Improve the user interface design
-- Add categories or subjects for flashcards
 - Use a database like Room for better data storage
 - Add animations when flipping flashcards
-- Allow users to edit and delete flashcards
+- Allow users to edit flashcards
