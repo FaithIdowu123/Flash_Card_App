@@ -4,7 +4,7 @@ This project is a Flashcard Study Mobile Application built for Android devices. 
 
 The purpose of this app is to improve my skills in mobile app development using Kotlin and Android Studio. It also helps me learn how to design user interfaces, manage multiple screens, and store data locally on a device.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Flash card app Video](https://youtu.be/R2-TaA2mde4)
 
 # Development Environment
 
