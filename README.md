@@ -16,7 +16,7 @@ Programming Language:
 
 Libraries / Tools:
 - Jetpack Compose (for UI)
-- Local storage (JSON or file storage)
+- Local storage (JSON)
 
 # Useful Websites
 
