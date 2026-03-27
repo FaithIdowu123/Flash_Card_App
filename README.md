@@ -22,7 +22,6 @@ Libraries / Tools:
 
 - [Android Developers](https://developer.android.com/)
 - [Kotlin Documentation](https://kotlinlang.org/docs/home.html)
-- [YouTube Android Tutorials](https://www.youtube.com/)
 
 # Future Work
 
